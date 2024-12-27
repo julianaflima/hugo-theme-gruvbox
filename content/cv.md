@@ -4,7 +4,7 @@ draft: false
 type: "cv"
 ---
 
-## Experience
+## Work Experience
 
 {{< json-resume "work" >}}
 
@@ -12,38 +12,49 @@ type: "cv"
 
 {{< json-resume "education" >}}
 
-## Volunteering
+<!-- ## Volunteering
 
-{{< json-resume "volunteer" >}}
+{{< json-resume "volunteer" >}} -->
 
-## Awards
+<!-- ## Awards
 
-{{< json-resume "awards" >}}
+{{< json-resume "awards" >}} -->
 
-## Certificates
+<!-- ## Certificates
 
-{{< json-resume "certificates" >}}
+{{< json-resume "certificates" >}} -->
 
 ## Publications
 
+### Books
+
+{{< json-resume "books" >}}
+
+### Journal Articles (selective)
+
+{{< json-resume "j_articles" >}}
+
+### Teste
+
 {{< json-resume "publications" >}}
 
-## Skills
 
-{{< json-resume "skills" >}}
+<!-- ## Skills
 
-## Languages
+{{< json-resume "skills" >}} -->
 
-{{< json-resume "languages" >}}
+<!-- ## Languages
 
-## Interests
+{{< json-resume "languages" >}} -->
 
-{{< json-resume "interests" >}}
+<!-- ## Interests
 
-## References
+{{< json-resume "interests" >}} -->
 
-{{< json-resume "references" >}}
+<!-- ## References
 
-## Projects
+{{< json-resume "references" >}} -->
 
-{{< json-resume "projects" >}}
+<!-- ## Projects
+
+{{< json-resume "projects" >}} -->

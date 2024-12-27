@@ -24,15 +24,30 @@
   },
   "work": [
     {
-      "name": "Pied Piper",
-      "location": "Palo Alto, CA",
-      "description": "Awesome compression company",
-      "position": "CEO/President",
+      "name": "Azim Premji University",
+      "location": "Bengaluru, India",
+      "_description": "Awesome compression company",
+      "position": "Associate Professor",
       "url": "http://piedpiper.com",
-      "startDate": "2013-12-01",
-      "endDate": "2014-12-01",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
-      "highlights": [
+      "startDate": "Jan 2023",
+      "endDate": "",
+      "_summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "_highlights": [
+        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
+        "Successfully won Techcrunch Disrupt",
+        "Optimized an algorithm that holds the current world record for Weisman Scores"
+      ]
+    },
+    {
+      "name": "Galway University",
+      "location": "Galway, Ireland",
+      "_description": "Awesome compression company",
+      "position": "Lecturer",
+      "url": "http://piedpiper.com",
+      "startDate": "Jan 2003",
+      "endDate": "current",
+      "_summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "_highlights": [
         "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
         "Successfully won Techcrunch Disrupt",
         "Optimized an algorithm that holds the current world record for Weisman Scores"
@@ -52,14 +67,54 @@
   ],
   "education": [
     {
-      "institution": "University of Oklahoma",
-      "url": "https://www.ou.edu/",
-      "area": "Information Technology",
-      "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "score": "4.0",
-      "courses": ["DB1101 - Basic SQL", "CS2011 - Java Introduction"]
+      "institution": "Jawaharlal Nehru University, India",
+      "_url": "https://www.ou.edu/",
+      "area": "Economics",
+      "studyType": "Doctor of Philosophy (PhD)",
+      "_startDate": "2011-06-01",
+      "_endDate": "2014-01-01",
+      "_score": "4.0",
+      "_courses": ["DB1101 - Basic SQL", "CS2011 - Java Introduction"]
+    },
+    {
+      "institution": "Centre for Development Studies, India",
+      "_url": "https://www.ou.edu/",
+      "area": "Applied Economics",
+      "studyType": "Master of Philosophy (M.Phil)",
+      "_startDate": "2011-06-01",
+      "_endDate": "2014-01-01",
+      "_score": "4.0",
+      "_courses": ["DB1101 - Basic SQL", "CS2011 - Java Introduction"]
+    },
+    {
+      "institution": "Madurai Kamaraj University, India",
+      "_url": "https://www.ou.edu/",
+      "area": "Economics",
+      "studyType": "Master of Philosophy (M.Phil)",
+      "_startDate": "2011-06-01",
+      "_endDate": "2014-01-01",
+      "_score": "4.0",
+      "_courses": ["DB1101 - Basic SQL", "CS2011 - Java Introduction"]
+    },
+    {
+      "institution": "Annamalai University, India",
+      "_url": "https://www.ou.edu/",
+      "area": "Mathematical Statistics and Probability",
+      "studyType": "M.Sc",
+      "_startDate": "2011-06-01",
+      "_endDate": "2014-01-01",
+      "_score": "4.0",
+      "_courses": ["DB1101 - Basic SQL", "CS2011 - Java Introduction"]
+    },
+    {
+      "institution": "Madura College, Madurai Kamaraj University, India",
+      "_url": "https://www.ou.edu/",
+      "area": "Mathematics (Physics and Statistics",
+      "studyType": "B.Sc",
+      "_startDate": "2011-06-01",
+      "_endDate": "2014-01-01",
+      "_score": "4.0",
+      "_courses": ["DB1101 - Basic SQL", "CS2011 - Java Introduction"]
     }
   ],
   "awards": [
@@ -70,7 +125,79 @@
       "summary": "There is no spoon."
     }
   ],
-  "publications": [
+  "books": [
+    {
+      "name": "An Introduction to Economic dynamics: Modelling, Analysis and Simulation",
+      "publisher": "Routledge",
+      "releaseDate": "2023",
+      "url": "https://www.routledge.com/An-Introduction-to-Economic-Dynamics-Modelling-Analysis-and-Simulation/Raghavendra-Piiroinen/p/book/9780367341893",
+      "_summary": "Innovative middle-out compression algorithm that changes the way we store data."
+    }
+  ],
+  "j_articles": [
+    {
+"name": "Financial Growth and Crash under Shadow Banking",
+      "publisher": "Review of Political Economy, 36:3, 1156–1173, DOI: 10.1080/09538259.2022.2099667",
+      "releaseDate": "2024",
+      "_url": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
+      "_summary": "Innovative middle-out compression algorithm that changes the way we store data.",
+      "authors": "Bhaduri,A. & Raghavendra,S."
+    },
+    {
+      "name": "A macroeconomic developmental perspective on Indian economic growth",
+      "publisher": "Development Macroeconomics Bulletin, 3(1), 47–61",
+      "releaseDate": "2024",
+      "url": "https://macroeconomia-strapi.s3.sa-east-1.amazonaws.com/DMB_V3_N1_2023_ca85d53ac8.pdf",
+      "_summary": "Innovative middle-out compression algorithm that changes the way we store data.",
+      "authors": "Raghavendra, S., & Dasgupta, Z."
+    },
+    {
+      "name": "Women’s self-employment as a developmental strategy: The dual constraints of care work and aggregate demand",
+      "publisher": "Feminist Economics, 28(3), 56–83",
+      "releaseDate": "2022",
+      "url": "https://doi.org/10.1080/13545701.2022.2044497",
+      "_summary": "Innovative middle-out compression algorithm that changes the way we store data.",
+      "authors": "Vasudevan, R., & Raghavendra, S."
+    },
+    {
+      "name": "Violence against women and the macroeconomy: The case of Ghana",
+      "publisher": "Journal of International Development, 34(2), 239–258",
+      "releaseDate": "2022",
+      "url": "https://doi.org/10.1002/jid.3588",
+      "_summary": "Innovative middle-out compression algorithm that changes the way we store data.",
+      "authors": "Raghavendran, S., Kim, K., Ashe, S., Chadha, M., Asante, F., Piiroinen, P. T., & Duvvury, N."
+    },
+    {
+      "name": "Community cohesion and violence against women in Ghana, Pakistan, and South Sudan: A secondary data analysis.",
+      "publisher": "Women’s Health, 18, 17455057221123998",
+      "releaseDate": "2022",
+      "url": "https://doi.org/10.1177/17455057221123998",
+      "_summary": "Innovative middle-out compression algorithm that changes the way we store data.",
+      "authors": "Poix, S., Ibrahim, N., Scriver, S., Raghavendra, S., Duvvury, N., & Elmusharaf, K."
+    }
+  ],
+  "_publications": [
+    {
+      "name": "Financial Growth and Crash under Shadow Banking",
+      "publisher": "Hooli",
+      "releaseDate": "2014-10-01",
+      "url": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
+      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+    },
+    {
+      "name": "Video compression for 3d media",
+      "publisher": "Hooli",
+      "releaseDate": "2014-10-01",
+      "url": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
+      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+    },
+    {
+      "name": "Video compression for 3d media",
+      "publisher": "Hooli",
+      "releaseDate": "2014-10-01",
+      "url": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
+      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+    },
     {
       "name": "Video compression for 3d media",
       "publisher": "Hooli",
